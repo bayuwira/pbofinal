@@ -59,15 +59,15 @@ public class LoginView extends javax.swing.JFrame {
 
         setDefaultCloseOperation(javax.swing.WindowConstants.EXIT_ON_CLOSE);
 
-        jPanel1.setBackground(new java.awt.Color(255, 255, 255));
+        jPanel1.setBackground(new java.awt.Color(70, 88, 129));
         jPanel1.setForeground(new java.awt.Color(255, 255, 255));
         jPanel1.setPreferredSize(new java.awt.Dimension(500, 500));
 
-        jPanel2.setBackground(new java.awt.Color(178, 223, 251));
+        jPanel2.setBackground(new java.awt.Color(27, 42, 73));
         jPanel2.setForeground(new java.awt.Color(255, 255, 255));
-        jPanel2.setBounds(new java.awt.Rectangle(0, 0, 100, 100));
         jPanel2.setPreferredSize(new java.awt.Dimension(250, 100));
 
+        jLabel1.setBackground(new java.awt.Color(27, 42, 73));
         jLabel1.setFont(new java.awt.Font("Poppins", 1, 24)); // NOI18N
         jLabel1.setForeground(new java.awt.Color(255, 255, 255));
         jLabel1.setHorizontalAlignment(javax.swing.SwingConstants.CENTER);
@@ -85,11 +85,11 @@ public class LoginView extends javax.swing.JFrame {
             .addComponent(jLabel1, javax.swing.GroupLayout.DEFAULT_SIZE, 80, Short.MAX_VALUE)
         );
 
-        jPanel3.setBackground(new java.awt.Color(211, 244, 255));
+        jPanel3.setBackground(new java.awt.Color(27, 42, 73));
 
         jLabel2.setBackground(new java.awt.Color(247, 188, 247));
         jLabel2.setFont(new java.awt.Font("Poppins", 1, 14)); // NOI18N
-        jLabel2.setForeground(new java.awt.Color(70, 65, 89));
+        jLabel2.setForeground(new java.awt.Color(255, 255, 255));
         jLabel2.setHorizontalAlignment(javax.swing.SwingConstants.CENTER);
         jLabel2.setText("USERNAME");
 
@@ -101,7 +101,7 @@ public class LoginView extends javax.swing.JFrame {
         });
 
         jLabel3.setFont(new java.awt.Font("Poppins", 1, 14)); // NOI18N
-        jLabel3.setForeground(new java.awt.Color(70, 65, 89));
+        jLabel3.setForeground(new java.awt.Color(255, 255, 255));
         jLabel3.setHorizontalAlignment(javax.swing.SwingConstants.CENTER);
         jLabel3.setText("PASSWORD");
 
@@ -117,7 +117,7 @@ public class LoginView extends javax.swing.JFrame {
 
         jLabel4.setBackground(new java.awt.Color(247, 188, 247));
         jLabel4.setFont(new java.awt.Font("Poppins", 1, 24)); // NOI18N
-        jLabel4.setForeground(new java.awt.Color(70, 65, 89));
+        jLabel4.setForeground(new java.awt.Color(255, 255, 255));
         jLabel4.setHorizontalAlignment(javax.swing.SwingConstants.CENTER);
         jLabel4.setText("DATA LOGIN");
 
